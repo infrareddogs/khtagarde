@@ -1,7 +1,9 @@
 
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
 body {
 background-color: #e6ffff;
-  
+font-family: 'DM Sans', sans-serif; 
 }
 
 #header {
@@ -13,6 +15,7 @@ border-radius: 10px;
 border: 2px solid #2c7481;
 background-color: white;
 font-weight: bold;
+font-family: 'DM Sans', sans-serif;
 }
 
 
