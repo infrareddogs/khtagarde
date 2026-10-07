@@ -19,3 +19,12 @@ font-weight: bold;
 #title h1 {
 color: #60acaf;
 }
+
+
+#Content-Container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+margin: 0 auto;
+  
+}
