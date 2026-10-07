@@ -1,5 +1,5 @@
 
-#title {
+#header {
 display: flex;
 justify-content: center;
 padding: 10px;
@@ -7,4 +7,8 @@ margin: 2px;
 border-radius: 10px;
 background: linear-gradient(#00a881, #b03881);
 border: 2px solid #2c7481;
+}
+
+#title {
+
 }
