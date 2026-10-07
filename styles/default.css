@@ -1,4 +1,9 @@
 
+body {
+background-color: #607faf;
+  
+}
+
 #header {
 display: flex;
 justify-content: center;
