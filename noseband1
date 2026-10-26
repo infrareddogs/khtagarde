@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+  <head>
 
+    <title>AE | Home</title>
+    <!--Stylesheets-->
+    <link rel="stylesheet" href="https://www.lusciousorange.com/basic_reset.css">
+    <link rel="stylesheet" href="styles/default.css">
+    <link rel="stylesheet" href="styles/index.css">
+  
+  </head>
+  <body>
+    <!--Your fancy header at the top-->
+    <div id="header">
+      <h1 id="title">AGARDE EQUIPMENT</h1>
+    </div>
