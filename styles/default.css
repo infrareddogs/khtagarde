@@ -43,8 +43,8 @@ margin: 10px 5px 10px 5px;
 #Catalogue-Container {
 display: flex;
 flex-direction: column;
-justify-content: left;
-align-items: left;
+justify-content: center;
+align-items: center;
 margin: 0 auto;
 background-color: white;
 padding: 5px;
