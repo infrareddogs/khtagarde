@@ -39,3 +39,20 @@ border: 2px solid #2c7481;
 #Content-Container p {
 margin: 10px 5px 10px 5px;
 }
+
+#Catalogue-Container {
+display: flex;
+flex-direction: column;
+justify-content: left;
+align-items: left;
+margin: 0 auto;
+background-color: white;
+padding: 5px;
+width: 70%;
+margin-top: 30px;
+border: 2px solid #2c7481;
+}
+
+#Catalogue-Container p {
+margin: 10px 5px 10px 5px;
+}
